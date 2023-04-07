@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjrcjrdl1)](https://solved.ac/cjrcjrdl1)
+
 [![@cjrcjrdl1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@cjrcjrdl1)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>

@@ -27,11 +27,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjrcjrdl1)](https://solved.ac/cjrcjrdl1)
 
-[![@cjrcjrdl1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@cjrcjrdl1)](https://github.com/anuraghazra/github-readme-stats)
+[![@cjrcjrdl1's wakatime stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=@cjrcjrdl1)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cjrcjrdl1&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjrcjrdl1&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cjrcjrdl1&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cjrcjrdl1&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <!--
 **cjrcjrdl1/cjrcjrdl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
